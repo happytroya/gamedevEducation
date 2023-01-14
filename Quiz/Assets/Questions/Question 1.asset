@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Who is Sasha
+  answers:
+  - Glek
+  - Boxer
+  - Pudge
+  - Programmer
+  correctAnswerIndex: 0
