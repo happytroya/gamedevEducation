@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float moveSpeed = 6f;
     [SerializeField] float jumpSpeed = 5f;
     Vector2 moveInput;
-    Rigidbody2D playerRigidbody;
+    public Rigidbody2D playerRigidbody;
     Collider2D playerCollider;
     Animator playerAnimator;
 
